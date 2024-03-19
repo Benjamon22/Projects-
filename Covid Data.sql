@@ -1,0 +1,1 @@
+SELECT * FROM Covid_Learning.cumulative_vaccination;
